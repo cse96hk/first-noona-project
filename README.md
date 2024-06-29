@@ -6,7 +6,7 @@
 
 URL 만들기
 ---
-> url : [https://noona-fj.netlify.app/](https://noona-fj.netlify.app/)
+> 나의 첫번째 URL : [https://noona-fj.netlify.app/](https://noona-fj.netlify.app/)
 
 
 
